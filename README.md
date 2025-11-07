@@ -155,4 +155,4 @@ This project demonstrates how inheritance helps in creating a well-organized, ma
 
 **Author:** Mahmoud Hany  
 **Language:** C#  
-**Topic:** Indexers
+**Topic:** Inheritance
